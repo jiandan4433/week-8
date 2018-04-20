@@ -26,9 +26,8 @@ Vulnerability #2: __________________
 Vulnerability #1: Username Enumeration
 <img src='Green username enumeration.gif' title='Username Enumeration' width='' alt='' />
 
-Vulnerability #2: __________________
-
-
+Vulnerability #2: Cross-Site Scripting
+<img src='Green-Cross-Site Scripting.gif' title='Cross-Site Scripting' width='' alt='' />
 ## Red
 
 Vulnerability #1: __________________
