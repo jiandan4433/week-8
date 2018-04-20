@@ -16,8 +16,8 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 ## Blue
 
-Vulnerability #1: __________________
-
+Vulnerability #1: SQL Injection
+<img src='Blue SQL Injection.gif' title='Username Enumeration' width='' alt='' />
 Vulnerability #2: __________________
 
 
