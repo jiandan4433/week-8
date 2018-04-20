@@ -30,7 +30,8 @@ Vulnerability #2: Cross-Site Scripting
 <img src='Green-Cross-Site Scripting.gif' title='Cross-Site Scripting' width='' alt='' />
 ## Red
 
-Vulnerability #1: __________________
+Vulnerability #1: Insecure Direct Object Reference
+<img src='red-Insecure Direct Object Reference.gif' title='Insecure Direct Object Reference' width='' alt='' />
 
 Vulnerability #2: __________________
 
