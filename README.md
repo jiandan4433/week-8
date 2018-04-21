@@ -34,7 +34,7 @@ Vulnerability #1: Insecure Direct Object Reference
 <img src='red-Insecure Direct Object Reference.gif' title='Insecure Direct Object Reference' width='' alt='' />
 
 Vulnerability #2: cross-site request forgery csrf
-<img src='red-cross-site request forgery csrf' title='cross-site request forgery csrf' width='' alt='' />
+<img src='red-cross-site request forgery csrf.gif' title='cross-site request forgery csrf' width='' alt='' />
 
 ## Notes
 
